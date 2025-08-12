@@ -127,7 +127,7 @@ body {
 
 .progress-thumb {
   @apply absolute top-1/2 w-4 h-4 rounded-full transform -translate-y-1/2 transition-all duration-200;
-  background: var(--audio-gradient);
+  background: var(--audio-primary);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   opacity: 0;
 }
